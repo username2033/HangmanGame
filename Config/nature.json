@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "easy",
+    "words": [
+      {
+        "word": "river",
+        "clues": [
+          "It flows through the land.",
+          "Many animals live near it.",
+          "It can be a source of water."
+        ]
+      },
+      {
+        "word": "tree",
+        "clues": [
+          "This plant has a trunk.",
+          "It provides shade and oxygen.",
+          "Some produce fruit."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "mountain",
+        "clues": [
+          "This is a high landform.",
+          "People often go hiking here.",
+          "It can have snow at the top."
+        ]
+      },
+      {
+        "word": "forest",
+        "clues": [
+          "A large area covered with trees.",
+          "Many animals live here.",
+          "It's often used for recreation."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "volcano",
+        "clues": [
+          "This mountain can erupt.",
+          "It's formed by magma from the Earth.",
+          "Some are active, while others are dormant."
+        ]
+      },
+      {
+        "word": "ecosystem",
+        "clues": [
+          "A community of living organisms and their environment.",
+          "Includes plants, animals, and microorganisms.",
+          "Can be affected by climate change."
+        ]
+      }
+    ]
+  }
+]

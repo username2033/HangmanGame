@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "easy",
+    "words": [
+      {
+        "word": "soccer",
+        "clues": [
+          "This sport is played with a round ball.",
+          "It is known as football in many countries.",
+          "The goal is to score by getting the ball into the net."
+        ]
+      },
+      {
+        "word": "basketball",
+        "clues": [
+          "This game is played on a court with a hoop.",
+          "It involves dribbling and shooting a ball.",
+          "The objective is to score points by shooting the ball through the hoop."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "tennis",
+        "clues": [
+          "This sport is played with rackets and a small ball.",
+          "It can be played in singles or doubles.",
+          "The objective is to hit the ball over a net."
+        ]
+      },
+      {
+        "word": "swimming",
+        "clues": [
+          "This activity involves moving through water.",
+          "It can be done competitively or for leisure.",
+          "It's a great full-body workout."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "mountaineering",
+        "clues": [
+          "This sport involves climbing mountains.",
+          "It requires physical strength and endurance.",
+          "Often involves technical skills and equipment."
+        ]
+      },
+      {
+        "word": "fencing",
+        "clues": [
+          "This is a sport involving swords.",
+          "It is a combat sport where opponents try to hit each other.",
+          "It requires agility and quick reflexes."
+        ]
+      }
+    ]
+  }
+]

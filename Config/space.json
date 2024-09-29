@@ -1,0 +1,66 @@
+[
+  {
+    "difficulty": "easy",
+    "words": [
+      {
+        "word": "sun",
+        "clues": [
+          "This giant star provides us with light and warmth.",
+          "It's the center of our solar system.",
+          "We see it during the day."
+        ]
+      },
+      {
+        "word": "moon",
+        "clues": [
+          "This natural satellite orbits the Earth.",
+          "It reflects sunlight, making it visible at night.",
+          "It goes through different phases."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "galaxy",
+        "clues": [
+          "This is a massive collection of stars, gas, and dust.",
+          "Our solar system is part of the Milky Way galaxy.",
+          "There are billions of galaxies in the universe."
+        ]
+      },
+      {
+        "word": "planet",
+        "clues": [
+          "This is a large celestial body that orbits a star.",
+          "Earth is a planet.",
+          "Some planets have moons."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "quasar",
+        "clues": [
+          "This is a region of spacetime with extreme gravity.",
+          "Nothing, not even light, can escape its pull.",
+          "They are formed from the collapse of massive stars."
+        ]
+      },
+      {
+        "word": "nebula",
+        "clues": [
+          "This is a cloud of gas and dust in space.",
+          "It's often where new stars are born.",
+          "They can be bright and colorful."
+        ]
+      }
+    ]
+  }
+]
+

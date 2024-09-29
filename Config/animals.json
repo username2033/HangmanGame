@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "easy",
+    "words": [
+      {
+        "word": "dog",
+        "clues": [
+          "This is a common pet.",
+          "Known as man's best friend.",
+          "They come in many breeds."
+        ]
+      },
+      {
+        "word": "cat",
+        "clues": [
+          "This animal is often kept as a pet.",
+          "It has a reputation for being independent.",
+          "They like to chase mice."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "elephant",
+        "clues": [
+          "This is the largest land animal.",
+          "It has a trunk and tusks.",
+          "They are known for their intelligence."
+        ]
+      },
+      {
+        "word": "dolphin",
+        "clues": [
+          "This animal is known for its intelligence.",
+          "It lives in the ocean.",
+          "They are often seen jumping out of water."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "crocodile",
+        "clues": [
+          "This reptile has a long snout and sharp teeth.",
+          "It can be found in rivers and lakes.",
+          "Known for being a fierce predator."
+        ]
+      },
+      {
+        "word": "kangaroo",
+        "clues": [
+          "This animal is native to Australia.",
+          "It moves by hopping on its hind legs.",
+          "It has a pouch for carrying its young."
+        ]
+      }
+    ]
+  }
+]

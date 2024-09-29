@@ -1,0 +1,74 @@
+[ {
+  "difficulty": "easy",
+  "words": [
+    {
+      "word": "computer",
+      "clues": [
+        "This device can process information.",
+        "It's commonly used for work and entertainment.",
+        "It can connect to the internet."
+      ]
+    },
+    {
+      "word": "phone",
+      "clues": [
+        "With the help of this thing people communicate with each other.",
+        "We use this thing every day.",
+        "It can be wired or wireless."
+      ]
+    }
+  ]
+},
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "software",
+        "clues": [
+          "Programs and applications that run on computers.",
+          "Includes operating systems and apps.",
+          "It can be free or paid."
+        ]
+      },
+      {
+        "word": "internet",
+        "clues": [
+          "A global network of computers.",
+          "This is where you can browse websites.",
+          "It allows for online communication."
+        ]
+      }
+
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "ai",
+        "clues": [
+          "This field focuses on creating machines that think.",
+          "Includes machine learning and robotics.",
+          "It's used in various applications, from chatbots to self-driving cars."
+        ]
+      },
+      {
+        "word": "blockchain",
+        "clues": [
+          "A decentralized digital ledger.",
+          "Used for cryptocurrencies like Bitcoin.",
+          "It ensures transparency and security."
+        ]
+      },
+      {
+        "word": "algorithm",
+        "clues": [
+          "This is a set of instructions for solving a problem.",
+          "It's used in various fields, from computer science to mathematics.",
+          "It can be simple or complex."
+        ]
+      }
+    ]
+  }
+
+]

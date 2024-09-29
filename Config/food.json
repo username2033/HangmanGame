@@ -1,0 +1,65 @@
+[
+  {
+    "difficulty": "easy",
+    "words": [
+      {
+        "word": "pizza",
+        "clues": [
+          "This dish is often topped with cheese and tomato sauce.",
+          "It originated in Italy.",
+          "You can add various toppings."
+        ]
+      },
+      {
+        "word": "apple",
+        "clues": [
+          "This is a common fruit.",
+          "It can be red, green, or yellow.",
+          "Often associated with keeping the doctor away."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "medium",
+    "words": [
+      {
+        "word": "sushi",
+        "clues": [
+          "This dish usually consists of rice and raw fish.",
+          "It is a popular Japanese cuisine.",
+          "Often served with soy sauce."
+        ]
+      },
+      {
+        "word": "pasta",
+        "clues": [
+          "This is a staple food in Italian cuisine.",
+          "It can be served with various sauces.",
+          "Common types include spaghetti and penne."
+        ]
+      }
+    ]
+  },
+  {
+    "difficulty": "hard",
+    "words": [
+      {
+        "word": "caviar",
+        "clues": [
+          "This is a delicacy made from fish eggs.",
+          "Often considered a luxury food.",
+          "Usually served on toast or blinis."
+        ]
+      },
+      {
+        "word": "foiegras",
+        "clues": [
+          "This is a luxury food made from duck or goose liver.",
+          "It is often served as a pâté.",
+          "Considered a delicacy in French cuisine."
+        ]
+      }
+    ]
+  }
+]
